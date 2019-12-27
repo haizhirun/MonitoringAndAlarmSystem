@@ -1,0 +1,1 @@
+java -cp target/monitorAlarmCrawler-0.1-jar-with-dependencies.jar com.atguigu.alarm.main.Producer 1 monitorAlarm hadoop102:9092,hadoop103:9092,hadoop104:9092
